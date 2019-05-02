@@ -1,2 +1,2 @@
 # Arduino Projects
-Some Arduino Projects I did as hobbyist. 
+Some Arduino Projects I worked as hobbyist. 
